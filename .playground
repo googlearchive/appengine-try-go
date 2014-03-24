@@ -3,14 +3,7 @@
   "project_description": "Starter code for a Google App Engine app in Go.",
   "show_files": [
     "app.yaml",
-    "server/server.go",
-    "static/index.html",
-    "static/spinner.gif",
-    "static/todo.css",
-    "static/todo.js",
-    "task/task.go",
-    "task/task_test.go",
-    "todo/appengine.go",
-    "todo/local.go"
-  ]
+    "hello/hello.go"
+  ],
+  "read_only_demo_url": "https://try-go-demo-dot-cloud-playground.appspot.com/"
 }
